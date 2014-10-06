@@ -1,0 +1,6 @@
+{
+  "name": "extensible-client",
+  "dependencies": {
+    "angular-latest": "~1.2.0"
+	}
+}
